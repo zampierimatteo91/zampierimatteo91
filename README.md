@@ -17,15 +17,9 @@ What? You would you like to connect with me? Sure thing!
 
 ---
 ## work experience
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
-
 | company | when | role and responsibilities |
 |:--------|:-----|:--------------------------|
-| ABN AMRO| Feb 2023 - now | Data Platform Engineer |
+| ABN AMRO| Feb 2023 - now | Data Platform Engineer  <br> <details>lets try<details/>|
 | KPN | Mar 2020 - Jan 2023 | Data Analytics Engineer |
 
 ## interests
