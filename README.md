@@ -7,6 +7,7 @@ I was born as a Philosopher 💭, I tried to reedem myself as a Cognitive Neuros
 
 Now I work as a Data Platform Engineer 💻
 
+---
 What? You would you like to connect with me? Sure thing!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mattzampieri/)
