@@ -63,6 +63,17 @@ I consider myself quite inept in keeping still with only one interest at any tim
 - 🗣️ philosophising over the unnecessary
 - 🧝 dreaming of fighting alongside Aragorn
 
+### currently:
+- reading: 
+    - [A prayer for the Crown-Shy](https://www.goodreads.com/book/show/40864030-a-prayer-for-the-crown-shy)
+    - [Eve](https://www.goodreads.com/book/show/75494215-eve)
+- studying: 
+    - [Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/)
+- messing with: pixel art
+- dreaming of learning: 
+    - Backend and Frontend development
+    - woodworking
+    - foraging
 <!--
 **zampierimatteo91/zampierimatteo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
