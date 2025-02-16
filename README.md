@@ -13,8 +13,7 @@ Now I work as a Data Platform Engineer.
 
 ---
 ## 📬 connect with me
-What? You would you like to connect with me? Sure thing!
-
+[![Linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)]
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mattzampieri/)
 
 
