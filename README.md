@@ -32,8 +32,7 @@ What? You would you like to connect with me? Sure thing!
 |CI/CD | `[Azure DevOps, Jenkins]` |
 |Containerization | `[Docker]` |
 |Version Control | `[Git]` |
-<br>
-In the past I mingled with: C, BERT, NumPy, Matlab, R, Scikit-Learn
+|Mingled with | `[Django, HTML, CSS, C, BERT, NumPy, Matlab, R, Scikit-Learn]` |
 
 ---
 ## 🌐 work experience
