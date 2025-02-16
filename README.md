@@ -3,7 +3,7 @@ Good to see you, stroller!
 
 I am Matteo Zampieri, currently based in Den Haag 🇳🇱.
 
-🗣️ I was born as a Philosopher 
+💭 I was born as a Philosopher 
 
 🧠 I tried to reedem myself as a Cognitive Neuroscientist 
 
@@ -52,16 +52,16 @@ What? You would you like to connect with me? Sure thing!
 
 
 ---
-## 🎲 interests
+## 🎯 interests
 I consider myself quite inept in keeping still with only one interest at any time. I believe that one burden of today's society is that of rewarding individuals that specialize in one thing, thus promoting a sense of guilt in everyone that is drawn to multiple interests. This notwithstaning, I can recognize some staples that I always hop around:
-- weightlifting / movement
-- reading 
-- boardgames and videogames
-- getting lost in nature and appreciating what is good on this Earth
-- cooking
-- drawing
-- philosophising over the unnecessary``
-- dreaming of fighting alongside Aragorn
+- 🏋️‍♂️ weightlifting / movement
+- 📗 reading 
+- 🎲 boardgames and videogames
+- 🌲 getting lost in nature and appreciating what is good on this Earth
+- 🍲 cooking
+- 🖍️ drawing
+- 🗣️ philosophising over the unnecessary
+- 🧝 dreaming of fighting alongside Aragorn
 
 <!--
 **zampierimatteo91/zampierimatteo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
