@@ -2,7 +2,7 @@
 Good to see you, stroller!
 
 I am Matteo Zampieri, currently based in Den Haag 🇳🇱.
-
+`
 🗣️ I was born as a Philosopher 
 
 🧠 I tried to reedem myself as a Cognitive Neuroscientist 
@@ -22,13 +22,16 @@ What? You would you like to connect with me? Sure thing!
 
 ---
 ## 🛠️ tech stack
-Languages: Python, Scala, Bash, Powershell<br>
-Frameworks: Spark, Polars, Pandas<br>
-Cloud: Azure, Databricks<br>
-IaC: Terraform, Bicep, Databricks Asset Bundle<br>
-CI/CD: Azure DevOps, Jenkins<br>
-Containerization: Docker<br>
-Version Control: Git<br>
+
+| | |
+|:---| :--- |
+|Languages | `[Python, Scala, Bash, Powershell]` |
+|Frameworks | `[Spark, Polars, Pandas]` |
+|Cloud | `[Azure, Databricks]` |
+|IaC | `[Terraform, Bicep, Databricks Asset Bundle]` |
+|CI/CD | `[Azure DevOps, Jenkins]` |
+|Containerization | `[Docker]` |
+|Version Control | `[Git]` |
 <br>
 In the past I mingled with: C, BERT, NumPy, Matlab, R, Scikit-Learn
 
