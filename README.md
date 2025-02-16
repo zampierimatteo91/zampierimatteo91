@@ -13,8 +13,7 @@ Now I work as a Data Platform Engineer.
 
 ---
 ## 📬 connect with me
-[![Linkedin](https://e7.pngegg.com/pngimages/936/303/png-clipart-white-in-log-linkedin-icon-square-icons-logos-emojis-social-media-icons.png)]
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mattzampieri/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) /in/mattzampieri](https://www.linkedin.com/in/mattzampieri/)
 
 
 <!-- Would you prefer to have a quick chat? Book a slot below 📅 -->
