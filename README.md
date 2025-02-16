@@ -22,14 +22,14 @@ What? You would you like to connect with me? Sure thing!
 
 ---
 ## 🛠️ tech stack
-Languages: Python, Scala, Bash, Powershell
-Frameworks: Spark, Polars, Pandas
-Cloud: Azure, Databricks
-IaC: Terraform, Bicep, Databricks Asset Bundle
-CI/CD: Azure DevOps, Jenkins
-Containerization: Docker
-Version Control: Git
-
+Languages: Python, Scala, Bash, Powershell<br>
+Frameworks: Spark, Polars, Pandas<br>
+Cloud: Azure, Databricks<br>
+IaC: Terraform, Bicep, Databricks Asset Bundle<br>
+CI/CD: Azure DevOps, Jenkins<br>
+Containerization: Docker<br>
+Version Control: Git<br>
+<br>
 In the past I mingled with: C, BERT, NumPy, Matlab, R, Scikit-Learn
 
 ---
