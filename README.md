@@ -14,6 +14,7 @@ Now I work as a Data Platform Engineer.
 ---
 ## 📬 connect with me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) /in/mattzampieri](https://www.linkedin.com/in/mattzampieri/)
+
 📧 [email](mailto:zampierimatteo.91@gmail.com)
 
 
