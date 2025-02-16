@@ -22,7 +22,15 @@ What? You would you like to connect with me? Sure thing!
 
 ---
 ## 🛠️ tech stack
+Languages: Python, Scala, Bash, Powershell
+Frameworks: Spark, Polars, Pandas
+Cloud: Azure, Databricks
+IaC: Terraform, Bicep, Databricks Asset Bundle
+CI/CD: Azure DevOps, Jenkins
+Containerization: Docker
+Version Control: Git
 
+In the past I mingled with: C, BERT, NumPy, Matlab, R, Scikit-Learn
 
 ---
 ## 🌐 work experience
@@ -40,8 +48,8 @@ What? You would you like to connect with me? Sure thing!
 | MSc | University of Trento | Cognitive Neurosciences |
 | Ba | University of Padua | Philosophy |
 
----
 
+---
 ## 🎲 interests
 I consider myself quite inept in keeping still with only one interest at any time. I believe that one burden of today's society is that of rewarding individuals that specialize in one thing, thus promoting a sense of guilt in everyone that is drawn to multiple interests. This notwithstaning, I can recognize some staples that I always hop around:
 - weightlifting / movement
@@ -52,9 +60,6 @@ I consider myself quite inept in keeping still with only one interest at any tim
 - drawing
 - philosophising over the unnecessary``
 - dreaming of fighting alongside Aragorn
-
-## now playing 
-
 
 <!--
 **zampierimatteo91/zampierimatteo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
