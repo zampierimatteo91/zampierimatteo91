@@ -36,7 +36,7 @@ What? You would you like to connect with me? Sure thing!
 
 ---
 ## 🌐 work experience
-| company | when | role and responsibilities |
+|  |  |  |
 |:--------|:-----|:--------------------------|
 | ABN AMRO| Feb 2023 - now | Data Platform Engineer|
 | KPN | Mar 2020 - Jan 2023 | Data Analytics Engineer|
@@ -44,7 +44,7 @@ What? You would you like to connect with me? Sure thing!
 
 ---
 ## 📚 education
-| type | university | degree |
+|  | |  |
 |:-----|:-----------|:-------|
 | Master | SISSA - ICTP | High Performance Computing | 
 | MSc | University of Trento | Cognitive Neurosciences |
