@@ -19,7 +19,7 @@ What? You would you like to connect with me? Sure thing!
 ## work experience
 | company | when | role and responsibilities |
 |:--------|:-----|:--------------------------|
-| ABN AMRO| Feb 2023 - now | Data Platform Engineer\|
+| ABN AMRO| Feb 2023 - now | Data Platform Engineer|
 | KPN | Mar 2020 - Jan 2023 | Data Analytics Engineer|
 
 ## interests
@@ -30,7 +30,8 @@ I consider myself quite inept in keeping still with only one interest at any tim
 - getting lost in nature and appreciating what is good on this Earth
 - cooking
 - drawing
-- philosophising over the unnecessary
+- philosophising over the unnecessary``
+- dreaming of fighting alongside Aragorn
 
 ## now playing 
 
